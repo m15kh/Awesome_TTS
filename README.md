@@ -52,6 +52,17 @@ Please provide the following information:
 - Link to Hugging Face model/space (if available)
 - Whether it supports Arabic language (✅ or ❌)
 
+### Pull Request Process
+
+To add a new model to this list:
+
+1. Create a fork of this repository
+2. Add your model to the table in the README.md file, maintaining alphabetical order if possible
+3. Submit a pull request with a brief description of the model you're adding
+4. In your pull request, please include any relevant information about the model's performance with Arabic text
+
+All pull requests will be reviewed as soon as possible. Thank you for your contributions!
+
 ## License
 
 This repository is licensed under the MIT License - see the LICENSE file for details.
